@@ -39,7 +39,7 @@
     "ikyy": "latest",
     "image-to-base64": "^2.2.0",
     "image-to-pdf": "^1.0.0",
-    "jimp": "^0.16.1",
+    "jimp": "^1.0.2",
     "jsdom": "^19.0.0",
     "mathjs": "latest",
     "moment-duration-format": "^2.3.2",
